@@ -8,6 +8,7 @@
 
 ## Final_Photo
 ![PCB_Asbly](/Photos/Final.jpg)
+![Gif](/Photos/gif.gif)
 
 ## Custom PCB Board
 ![PCB](/Photos/PCB.jpg)
