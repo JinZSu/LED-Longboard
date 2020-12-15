@@ -15,7 +15,7 @@
 
 ## Other Parts
 ![Arduino](/Photos/Arduino.jpg)
-![ACC](/Photos/ACC.jpg)
+![ACC](/Photos/Acc.jpg)
 
 
 ## Cleaning the LongBoard
